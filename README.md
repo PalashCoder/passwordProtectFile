@@ -1,1 +1,3 @@
 # passwordProtectFile
+
+try pass = "ILoveProgramming"
